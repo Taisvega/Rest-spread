@@ -22,7 +22,7 @@ function createInstructor(firstName, lastName){
     }
   }
   
-  const dog = createAnimal("dog", "bark", "woof");
+  const dog = createAnimal("dog", "bark", "woof!!!!");
   const sheep = createAnimal("sheep", "bleet", "BAAAAaaaa");
  
   
